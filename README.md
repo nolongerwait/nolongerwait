@@ -1,6 +1,6 @@
 ### Hi  👋
 
-<img src="/nolongerwait/nolongerwait/raw/main/image/xiecangxing.jpeg"/>
+![xiecangxing](https://github.com/nolongerwait/nolongerwait/blob/master/image/xiecangxing.jpeg?raw=true)  
 
 剑者，心之刃也。即可为杀，亦可为护。杀与护，不过一念之间。
 
