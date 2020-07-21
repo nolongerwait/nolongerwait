@@ -1,6 +1,6 @@
 ### Hi  👋
 
-![谢沧行](image/xiecangxing.jpeg)
+<img src="/nolongerwait/nolongerwait/raw/main/images/xiecangxing.jpg"/>
 
 剑者，心之刃也。即可为杀，亦可为护。杀与护，不过一念之间。
 
