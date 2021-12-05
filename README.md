@@ -1,8 +1,13 @@
-### Hi  👋
+# Hi! 👋 Welcome to my GitHub.
 
-![xiecangxing](https://github.com/nolongerwait/nolongerwait/blob/master/image/xiecangxing.jpeg?raw=true)  
+C/C++ Research & Development Engineer.
 
-剑者，心之刃也。即可为杀，亦可为护。杀与护，不过一念之间。
+Now work in ByteDance(Beijing).
+
+Using following language:  
+C/C++: ⭐⭐⭐⭐⭐⭐  
+Java:⭐⭐⭐  
+Python: ⭐⭐  
 
 <!--
 **nolongerwait/nolongerwait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
