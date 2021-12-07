@@ -5,7 +5,7 @@ C/C++ Research & Development Engineer.
 Now work in ByteDance(Beijing).
 
 Using following language:  
-C/C++: ⭐⭐⭐⭐⭐⭐  
+C/C++: ⭐⭐⭐⭐⭐  
 Java:⭐⭐⭐  
 Python: ⭐⭐  
 
