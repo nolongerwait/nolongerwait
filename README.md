@@ -4,12 +4,11 @@ C/C++ Research & Development Engineer.
 
 Now work in ByteDance(Beijing).
 
-
-I have been pursuing the person and things I like and love all my life.
-However, when I was at the end of my life, I realized that when I have something, I will inevitably lose something. More importantly, I cannot choose what I can get and what I lose, everything is God’s will.
-
-
-One day, if someone finds that this account has not been active for years, please contact my lover and successor [@wanwan1001](https://github.com/wanwan1001) and then delete my GitHub.
+> ***"How long will you be with me?"***  
+> ***"As long as stars are above you and longer if I can."***  
+>   
+> ***With you and By your side***   
+>  For my [@wanwan1001](https://github.com/wanwan1001)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nolongerwait&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
