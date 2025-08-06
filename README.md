@@ -2,13 +2,7 @@
 
 C/C++ Research & Development Engineer.
 
-Now work in ByteDance(Beijing).
-
-> ***"How long will you be with me?"***  
-> ***"As long as stars are above you and longer if I can."***  
->   
-> ***With you and By your side***   
->  For my [@wanwan1001](https://github.com/wanwan1001)
+Now work in ByteDance(Hangzhou).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nolongerwait&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
